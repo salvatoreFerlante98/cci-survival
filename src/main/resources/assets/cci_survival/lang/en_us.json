@@ -1,0 +1,13 @@
+{
+  "itemGroup.cci_survival": "Example Mod Tab",
+  "block.cci_survival.example_block": "Example Block",
+  "item.cci_survival.example_item": "Example Item",
+
+  "cci_survival.configuration.title": "cci-survival Configs",
+  "cci_survival.configuration.section.cci_survival.common.toml": "cci-survival Configs",
+  "cci_survival.configuration.section.cci_survival.common.toml.title": "cci-survival Configs",
+  "cci_survival.configuration.items": "Item List",
+  "cci_survival.configuration.logDirtBlock": "Log Dirt Block",
+  "cci_survival.configuration.magicNumberIntroduction": "Magic Number Text",
+  "cci_survival.configuration.magicNumber": "Magic Number"
+}
